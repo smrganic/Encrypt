@@ -1,4 +1,4 @@
-#Encrypt
+# Encrypt
 
 This is a simple command line program written in C. I wanted to make something interesting and at the same time practice for my exam. This is the result.
 
